@@ -1,5 +1,5 @@
 # swift-reactNative-hybrid
-Project that integrates React Native and Swift components 
+Project that shows the integration of React Native and Swift components.
 
 # how to execute it
 - `npm install`
