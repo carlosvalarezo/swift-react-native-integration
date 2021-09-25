@@ -1,4 +1,4 @@
-# swift-reactNative-hybrid
+# swift-react-native-integration
 Project that shows the integration of React Native and Swift components.
 
 # how to execute it
